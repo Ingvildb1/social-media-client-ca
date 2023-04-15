@@ -28,5 +28,15 @@
         "sourceType": "module"
     },
     "rules": {
-    }
+    },
+    "globals": {
+        "describe": "readonly",
+        "beforeEach": "readonly",
+        "afterEach": "readonly",
+        "it": "readonly",
+        "expect": "readonly",
+        "jest": "readonly",
+        "test": "readonly",
+        "global": "readonly"
+      }
 }

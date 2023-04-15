@@ -44,18 +44,6 @@
   },
   "homepage": "https://github.com/Ingvildb1/social-media-client-ca#readme",
   "lint-staged": {
-    "*.js": [
-      "prettier --write",
-      "eslint --fix"
-    ],
-    "*.html": [
-      "prettier --write"
-    ],
-    "*.scss": [
-      "prettier --write"
-    ],
-    "*.css": [
-      "prettier --write"
-    ]
+    "*.{js,css,md}": "prettier --write"
   }
 }
