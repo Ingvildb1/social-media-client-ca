@@ -6,6 +6,7 @@
 CA : improving the quality of an existing application by providing various development workflows as well as a testing strategy.
 
 
+
 ## Workflows/hooks
 
 - Project is configured to run Prettier on commit
