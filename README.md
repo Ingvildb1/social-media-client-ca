@@ -1,10 +1,6 @@
 ## Course Assignment
 
-[![Deploy static content to Pages](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/pages.yml/badge.svg)](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/pages.yml)
-
-[![Code Review](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/gpt.yml)
-
-[![Automated Unit Testing](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/unit-test.yml)
+[![Deploy static content to Pages](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/pages.yml/badge.svg)](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/pages.yml) [![Code Review](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/gpt.yml/badge.svg)](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/gpt.yml) [![Automated Unit Testing](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Ingvildb1/social-media-client-ca/actions/workflows/unit-test.yml)
 
 ### Brief
 CA : improving the quality of an existing application by providing various development workflows as well as a testing strategy.
