@@ -13,8 +13,8 @@ describe("NOT authenticated user", () => {
     cy.wait(1000);
 
     cy.get("#loginForm .btn-close").click();
-    cy.on("window:alert", (Text) => {
-      expect(Text).to.eq(
+    cy.on("window:alert", (sr) => {
+      expect(sr).to.equal(
         "Your e-mail or password is incorrect. Please try again"
       );
     });
